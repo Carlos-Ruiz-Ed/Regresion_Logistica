@@ -1,0 +1,11 @@
+,Modelo,Presicion,Exactitud,Sensibilidad
+0,Modelo 1,0.0,0.93,0.0
+1,Modelo 2,0.0,0.97,0.0
+2,Modelo 3,0.0,0.77,0.0
+3,Modelo 4,0.0,0.98,0.0
+4,Modelo 5,1.0,0.77,0.0
+5,Modelo 6,0.99,0.99,1.0
+6,Modelo 7,0.53,0.56,0.19
+7,Modelo 8,0.52,0.76,0.13
+8,Modelo 9,0.0,0.92,0.0
+9,Modelo 10,0.0,0.93,0.0
